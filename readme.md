@@ -68,6 +68,8 @@ Constará de la siguientes páginas:
 
     Es tiempo de establecer márgenes y rellenos a tu página según convenga.
 
+    Lleva todos los colores y dimensiones a variables CSS.
+
 4. **Jueves**. Distribuciones de la página
 
     Distribuye todos los bloques que haya en tu página con flex.
