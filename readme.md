@@ -32,9 +32,13 @@ Constará de la siguientes páginas:
 
 1. **Martes**. Crear un repositorio en Github y la página de tu biografía.
 
-    1.1 Crear un repositorio para el nuevo proyecto, donde poder trabajar.
+    1.1 Crear un repositorio para el nuevo proyecto
 
     1.2 Una vez hecho esto, crea la página de tu biografía o presentación. Llámala `biografia.html` Aplica todo lo aprendido sobre marcado de texto y formato.
+
+    1.3 Sube tu proyecto a Github.
+
+    1.4 Habilita tu repositorio para [Github Pages](https://pages.github.com/). Una vez terminado, tendrás ¡tu primera página en internet!
 
 ### HTML5 ###
 
@@ -50,7 +54,9 @@ Constará de la siguientes páginas:
 
 3. **Viernes**. Etiquetas semánticas para todos
 
-    En este apartado habrás de hacer una revisión de las 3 páginas creadas y agregar todas las etiquetas semánticas posibles, además de hacer revisión de accesibilidad.
+    3.1 En este apartado habrás de hacer una revisión de las 3 páginas creadas y agregar todas las etiquetas semánticas posibles
+
+    3.2 Hacer revisión de accesibilidad.
 
 ### CSS3 ###
 
