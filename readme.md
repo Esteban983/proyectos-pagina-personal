@@ -38,9 +38,7 @@ Constará de la siguientes páginas:
 
     1.3 Sube tu proyecto a Github.
     
-    1.5 Una vez en tu repositorio (en el navegador) ve a **settings -> Github Pages** y en **Source** cambia la opción de **none** a **master**
-
-    1.4 Habilita tu repositorio para [Github Pages](https://pages.github.com/). Una vez terminado, tendrás ¡tu primera página en internet!
+    1.4 Una vez en tu repositorio (en el navegador) ve a **settings -> Github Pages** y en **Source** cambia la opción de **none** a **master**
 
 ### HTML5 ###
 
