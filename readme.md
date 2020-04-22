@@ -37,6 +37,8 @@ Constará de la siguientes páginas:
     1.2 Una vez hecho esto, crea la página de tu biografía o presentación. Llámala `biografia.html` Aplica todo lo aprendido sobre marcado de texto y formato.
 
     1.3 Sube tu proyecto a Github.
+    
+    1.5 Una vez en tu repositorio (en el navegador) ve a **settings -> Github Pages** y en **Source** cambia la opción de **none** a **master**
 
     1.4 Habilita tu repositorio para [Github Pages](https://pages.github.com/). Una vez terminado, tendrás ¡tu primera página en internet!
 
