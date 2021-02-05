@@ -30,7 +30,7 @@ Constará de la siguientes páginas:
 
 ### GIT! ###
 
-1. **Martes**. Crear un repositorio en Github y la página de tu biografía.
+1. Crear un repositorio en Github y la página de tu biografía.
 
     1.1 Crear un repositorio para el nuevo proyecto
 
@@ -38,21 +38,21 @@ Constará de la siguientes páginas:
 
     1.3 Sube tu proyecto a Github.
     
-    1.4 Una vez en tu repositorio (en el navegador) ve a **settings -> Github Pages** y en **Source** cambia la opción de **none** a **master**
+    1.4 Una vez en tu repositorio (en el navegador) ve a **Settings -> Github Pages** y en **Source** cambia la opción de **none** a **master**
 
 ### HTML5 ###
 
-1. **Miércoles**. Página de bienvenida
+1. Página de bienvenida
 
     Es la segunda página de tu proyecto y será aquella que se verá primero. Esta será la página `index.html`.
 
     Una vez creadas las páginas `index.html` y `biografia.html`, tendrás que crear el menú de navegación que incluirás en ambas páginas.
 
-2. **Jueves**. Información de contacto
+2. Información de contacto
 
     Nueva página, de nombre `contacto.html`, en la que incluir un formulario de contacto y el menú de navegación.
 
-3. **Viernes**. Etiquetas semánticas para todos
+3. Etiquetas semánticas para todos
 
     3.1 En este apartado habrás de hacer una revisión de las 3 páginas creadas y agregar todas las etiquetas semánticas posibles
 
@@ -60,26 +60,26 @@ Constará de la siguientes páginas:
 
 ### CSS3 ###
 
-1. **Lunes**. Tipografía personalizada
+1. Tipografía personalizada
 
     Hoy agregarás tu primera adición estética, usando una fuente personalizada en tu página y aplicando las reglas aprendidas.
 
     Sigue las instrucciones en [W3Schools](https://www.w3schools.com/howto/howto_google_fonts.asp) para aprender cómo se hace, y [Google Fonts](https://fonts.google.com) como ejemplo de página donde poder encontrar una tipografía adecuada.
 
-2. **Martes**. Animaciones y transiciones
+2. Animaciones y transiciones
 
     Añade una transición al menú y una animación a la página.
 
-3. **Miércoles**. Modelo de cajas y variables CSS
+3. Modelo de cajas y variables CSS
 
     Es tiempo de establecer márgenes y rellenos a tu página según convenga.
 
     Lleva todos los colores y dimensiones a variables CSS.
 
-4. **Jueves**. Distribuciones de la página
+4. Distribuciones de la página
 
     Distribuye todos los bloques que haya en tu página con flex.
 
-5. **Viernes**. "Responsive!"
+5. "Responsive!"
 
     Has de hacer que tu página pueda verse correctamente en móvil, tablet y escritorio.
